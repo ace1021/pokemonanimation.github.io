@@ -9,9 +9,9 @@ class PokedexAnimation {
     $('.playButton').on('click', this.openPokedex);
   }
 
-  openPokedex() {
-    this.backgroundMusic = new Audio("./pokemonbattle.mp3");
-    this.backgroundMusic.play();
+  openPokedex = () => {
+    const backgroundMusic = new Audio("./pokemonbattle.mp3");
+    backgroundMusic.play();
     $('.playButton').css('opacity', '10%');
     $('.playButton').removeClass('animateText');
     $('.closedPokedex').removeClass('hidden');
