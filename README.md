@@ -5,7 +5,7 @@ Designed and built a Pokedex that opens, closes, and shows a specific map locati
 
 ## Live Demo
 
-Link:
+https://pokedex-animation.timothywlee.com/
 
 ## Technologies Used
 
