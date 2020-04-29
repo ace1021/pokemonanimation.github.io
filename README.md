@@ -1,6 +1,7 @@
 # Pokemon Animation (Mini Project)
 
 A mini passion project of mine where I got to practice my jQuery and CSS skills with a Google Maps API feature. 
+
 Designed and built a Pokedex that opens, closes, and shows a specific map location based off the user's selection. 
 
 ## Live Demo
@@ -14,13 +15,14 @@ https://pokedex-animation.timothywlee.com/
 - HTML5
 - CSS3
 - Photoshop
+- Google Maps API
 
 ## Features
 
 - User can choose a location for a Pokemon battle
 
 ## Preview
-![preview image](lakers-memory-match-preview-final.gif)
+![preview image](pokedex-animation.png)
 
 ## Getting Started
 1. Clone the repository
