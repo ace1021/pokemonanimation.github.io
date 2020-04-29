@@ -1,4 +1,4 @@
-class BegModal {
+class PokedexAnimation {
   constructor() {
 
   }
