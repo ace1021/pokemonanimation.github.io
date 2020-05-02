@@ -21,6 +21,10 @@ https://pokedex-animation.timothywlee.com/
 
 - User can choose a location for a Pokemon battle
 
+## Features to complete
+
+- make it responsive to all browsers, desktop, mobile, and tablets devices
+
 ## Preview
 ![preview image](pokedex-animation.png)
 
