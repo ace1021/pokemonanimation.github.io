@@ -23,7 +23,7 @@ https://pokedex-animation.timothywlee.com/
 
 ## Features to complete
 
-- make it responsive to all browsers, desktop, mobile, and tablets devices
+- Make webpage responsive to all browsers, desktop, mobile, and tablets devices
 
 ## Preview
 ![preview image](pokedex-animation.png)
